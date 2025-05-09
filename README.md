@@ -10,14 +10,14 @@ Im a Dev Back-end programming especially with typescript and javascript.
   </a>
 </p>
 
-<h1>Actually project and stuff 🎞</h1>
+<h1>Current project and stuff 🎞</h1>
  <p>Nothing in there, yet..</p>
 
 <h1>Contact me 📭</h1>
 <p>Email: p3drobcomercial@gmail.com</p>
 <p>Discord: Opedrozin</p>
 
-<h1>Actual work🏢</h1>
+<h1>Current work🏢</h1>
 For now I have no work plans.
 
 <h1>Studying📖</h1>
