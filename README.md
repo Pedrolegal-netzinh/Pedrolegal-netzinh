@@ -6,7 +6,7 @@ Im a Dev Back-end programming especially with typescript and javascript.
 <h1>What language do i code with?👨🏻‍💻</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,vscode" />
   </a>
 </p>
 
